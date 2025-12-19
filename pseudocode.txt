@@ -1,0 +1,11 @@
+START
+  Set restaurantName to "Curry 3"
+  Set businessAddress to "SanFran St"
+  Set city to "DUB City"
+  Set state to "CA"
+  Set zipCode to "0000"
+
+  Print restaurantName
+  Print businessAddress
+  Print city + ", " + state + " " + zipCode
+END
